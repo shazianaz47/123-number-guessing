@@ -1,0 +1,19 @@
+{
+  "name": "2number-guessing-game",
+  "version": "1.0.0",
+  "description": "it's a simple number guessing gane using inquirer , js code and chalk",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
